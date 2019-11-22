@@ -1,4 +1,5 @@
 import React from 'react';
+import {useState, useEffect} from React;
 import Search from './components/Search';
 import Pokemon from './components/Pokemon';
 import './App.css';
